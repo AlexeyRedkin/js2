@@ -1,18 +1,26 @@
-#trafficLight {
+/* #greenLight {
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background: black;
   }
 
-  #trafficLight2 {
+  #yellowLight {
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background: black;
   }
 
-  #trafficLight3 {
+  #redLight {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
+ */
+
+  .light {
     width: 100px;
     height: 100px;
     border-radius: 50%;
